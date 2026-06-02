@@ -1,4 +1,4 @@
-# 
+# 原生 Expensify 附加组件 Mac OS版 | 终极 Expensify 附加组件 PC Windows版。集成 收据捕获 和 项目会计，跨平台性能最大化。
 
 
 
